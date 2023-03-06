@@ -5,8 +5,6 @@ import requests from './Requests';
 
 
 
-
-
 function Banner() {
 
   const [movie, setMovie] = useState([]);
